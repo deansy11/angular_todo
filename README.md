@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Purpose
 
-To practice using Angular with the Angular CLI and Angular Material.
+To familiarize myself with the Angular CLI and practice using Angular and Angular Material Design. 
 
 ## Development server
 
